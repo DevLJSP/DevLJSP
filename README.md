@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">👋 Hey — I'm :contentReference[oaicite:0]{index=0}</h1>
+<p align="center"><strong>Senior Full-Stack Developer</strong> — TypeScript, JavaScript, Node.js, HTML5, SQL, Python, Java, C++, Lua / Luau</p>
+<p align="center">🌐 <a href="zt">zt01.dev</a> • 📫 <a href="https://github.com/DevLJSP">github.com/DevLJSP</a></p>
 
-<!--
-**DevLJSP/DevLJSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔭 About me
+I build robust, maintainable systems end-to-end — from polished front-ends to reliable backends, infra automation, and performance-sensitive native code. I like pragmatic design, clear APIs, and shipping code that scales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ Senior experience in web apps, APIs, and systems programming  
+- ✅ Comfortable with production infra: Docker, CI/CD, Postgres, Redis  
+- ✅ Strong background in scripting and game tooling (Lua / Luau)
+
+---
+
+## 🧰 Core Tech
+**Languages & Runtimes:** TypeScript • JavaScript • Python • Java • C++ • Lua / Luau  
+**Web / Backend:** Node.js • HTML5 • CSS / SCSS • SQL (Postgres, MySQL)  
+**Infra & Tools:** Docker • GitHub Actions • Linux • Nginx
+
+---
+
+## 📈 GitHub Status
+*(cards below update automatically — keep them if you want live stats)*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevLJSP&show_icons=true&theme=tokyonight&count_private=true" alt="DevLJSP's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevLJSP&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLJSP&layout=compact&theme=tokyonight" alt="Top langs" />
+</p>
+
+---
+
+## 💡 Selected Projects
+- **project-name-1** — short one-line summary: what it does, stack, impact.  
+- **project-name-2** — short one-line summary: API / backend / scale notes.  
+- **project-name-3** — tooling / CLI / game script (Lua) — purpose / highlight.
+
+*(Replace above with 2–4 real repos and 1 sentence each — keep it focused.)*
+
+---
+
+## 📬 Contact & Work
+- Website: soon 
+- Email: `soon` (or set preferred contact)  
+- Open to contract & remote senior roles — available for interviews and consulting
+
+---
+
+## 🧭 How I prefer to work
+- Small, autonomous teams or as a senior IC mentoring juniors  
+- Clean PRs, clear changelogs, testable code, observability in production  
+- I value pragmatic tradeoffs — ship features with durability
+
+---
+
+## ⚡ Fun / Extras
+- Game scripting and tooling (Lua / Luau)  
+- Low-level performance work in C++  
+- Automation & developer tooling
