@@ -32,14 +32,6 @@ I build robust, maintainable systems end-to-end — from polished front-ends to 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLJSP&layout=compact&theme=tokyonight" alt="Top langs" />
 </p>
 
----
-
-## 💡 Selected Projects
-- **project-name-1** — short one-line summary: what it does, stack, impact.  
-- **project-name-2** — short one-line summary: API / backend / scale notes.  
-- **project-name-3** — tooling / CLI / game script (Lua) — purpose / highlight.
-
-*(Replace above with 2–4 real repos and 1 sentence each — keep it focused.)*
 
 ---
 
