@@ -21,7 +21,6 @@ I build robust, maintainable systems end-to-end — from polished front-ends to 
 ---
 
 ## 📈 GitHub Status
-*(cards below update automatically — keep them if you want live stats)*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevLJSP&show_icons=true&theme=tokyonight&count_private=true" alt="DevLJSP's GitHub stats" />
