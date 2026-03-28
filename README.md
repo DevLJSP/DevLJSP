@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey — I'm :contentReference[oaicite:0]{index=0}</h1>
+<h1 align="center">👋 Hey — I'm DevLJSP
 <p align="center"><strong>Senior Full-Stack Developer</strong> — TypeScript, JavaScript, Node.js, HTML5, SQL, Python, Java, C++, Lua / Luau</p>
 <p align="center">🌐 <a href="zt">zt01.dev</a> • 📫 <a href="https://github.com/DevLJSP">github.com/DevLJSP</a></p>
 
